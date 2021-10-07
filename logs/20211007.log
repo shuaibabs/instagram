@@ -1,0 +1,109 @@
+20211007:162922.379: LOG: ************ STARTING Express Application(server.js)**************
+20211007:162923.853: LOG: ** Creating DB Connection Pool : {"host":"localhost","port":"3306","database":"Data_Base_Name","user":"Username","password":"Password","dateStrings":true,"connectionLimit":"5"}
+20211007:162925.058: LOG: ** Integrating Logging Middleware in Application
+20211007:162925.055: LOG: ** Integrating CORS Middleware in Application
+20211007:162925.060: LOG: ** Integrating Authentication Middleware in Application
+20211007:162925.063: LOG: ** Integrating All Routes in Application
+20211007:162925.068: LOG: ** All Modules Integration Done
+20211007:162925.149: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:201032.756: LOG: ************ STARTING Express Application(server.js)**************
+20211007:201033.902: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:201035.227: LOG: ** Integrating All Routes in Application
+20211007:201035.219: LOG: ** Integrating CORS Middleware in Application
+20211007:201035.225: LOG: ** Integrating Authentication Middleware in Application
+20211007:201035.230: LOG: ** All Modules Integration Done
+20211007:201035.242: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:201035.222: LOG: ** Integrating Logging Middleware in Application
+20211007:201134.640: LOG: ************ STARTING Express Application(server.js)**************
+20211007:201134.969: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:201135.442: LOG: ** Integrating CORS Middleware in Application
+20211007:201135.455: LOG: ** Integrating Logging Middleware in Application
+20211007:201135.464: LOG: ** Integrating Authentication Middleware in Application
+20211007:201135.468: LOG: ** Integrating All Routes in Application
+20211007:201135.472: LOG: ** All Modules Integration Done
+20211007:201135.493: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:201438.840: LOG: ************ STARTING Express Application(server.js)**************
+20211007:201439.207: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:201439.898: LOG: ** Integrating CORS Middleware in Application
+20211007:201439.901: LOG: ** Integrating Logging Middleware in Application
+20211007:201439.903: LOG: ** Integrating Authentication Middleware in Application
+20211007:201439.907: LOG: ** Integrating All Routes in Application
+20211007:201439.910: LOG: ** All Modules Integration Done
+20211007:201439.926: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:201459.089: LOG: ************ STARTING Express Application(server.js)**************
+20211007:201459.476: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:201459.879: LOG: ** Integrating CORS Middleware in Application
+20211007:201459.884: LOG: ** Integrating Logging Middleware in Application
+20211007:201459.887: LOG: ** Integrating Authentication Middleware in Application
+20211007:201459.890: LOG: ** Integrating All Routes in Application
+20211007:201459.893: LOG: ** All Modules Integration Done
+20211007:201459.912: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:201527.970: LOG: baseUrl=: body={}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/getdetails: params={}: path=/test/getdetails: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:201527.976: LOG: auth: error:{"status":-41,"info":"\"AUTH ERROR: No Authentication Key paased in request: undefined\"","startDT":"2021-10-07T14:45:27.976Z","endDT":"2021-10-07T14:45:27.976Z","tat":0,"data":{}}
+20211007:201528.639: LOG: baseUrl=: body={}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/favicon.ico: params={}: path=/favicon.ico: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:201528.641: LOG: auth: error:{"status":-41,"info":"\"AUTH ERROR: No Authentication Key paased in request: undefined\"","startDT":"2021-10-07T14:45:28.641Z","endDT":"2021-10-07T14:45:28.641Z","tat":0,"data":{}}
+20211007:202045.199: LOG: baseUrl=: body={"username":"Rahul","password":"00000"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/getdetails: params={}: path=/test/getdetails: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:202221.950: LOG: baseUrl=: body={"username":"Rahul","password":"00000"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/getdetails: params={}: path=/test/getdetails: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:202246.137: LOG: ************ STARTING Express Application(server.js)**************
+20211007:202247.108: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:202248.687: LOG: ** Integrating CORS Middleware in Application
+20211007:202248.689: LOG: ** Integrating Logging Middleware in Application
+20211007:202248.691: LOG: ** Integrating Authentication Middleware in Application
+20211007:202248.694: LOG: ** Integrating All Routes in Application
+20211007:202248.696: LOG: ** All Modules Integration Done
+20211007:202248.707: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:202305.952: LOG: baseUrl=: body={"username":"Rahul","password":"00000"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/getdetails: params={}: path=/test/getdetails: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:202307.900: LOG: QueryModel: {"affectedRows":0,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":0,"warningCount":0,"status":1,"fetchedRows":1,"rows":[{"username":"shuaib","password":"1234321"}],"info":"SUCCESS: 1, fetchedRows: 1","startDT":"2021-10-07T14:53:07.333Z","endDT":"2021-10-07T14:53:07.335Z","tat":0.567}
+20211007:202307.902: LOG: test-api.js: (getQueryResult(req): SUCCESS: 1, fetchedRows: 1
+20211007:205432.678: LOG: ************ STARTING Express Application(server.js)**************
+20211007:205433.359: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:205434.122: LOG: ** Integrating CORS Middleware in Application
+20211007:205434.124: LOG: ** Integrating Logging Middleware in Application
+20211007:205434.127: LOG: ** Integrating Authentication Middleware in Application
+20211007:205434.129: LOG: ** Integrating All Routes in Application
+20211007:205434.133: LOG: ** All Modules Integration Done
+20211007:205434.224: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:205848.985: LOG: baseUrl=: body={}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/getdetails: params={}: path=/test/getdetails: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:205850.745: LOG: QueryModel: {"affectedRows":0,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":0,"warningCount":0,"status":1,"fetchedRows":1,"rows":[{"username":"shuaib","password":"1234321"}],"info":"SUCCESS: 1, fetchedRows: 1","startDT":"2021-10-07T15:28:50.193Z","endDT":"2021-10-07T15:28:50.194Z","tat":0.552}
+20211007:205850.746: LOG: test-api.js: (getQueryResult(req): SUCCESS: 1, fetchedRows: 1
+20211007:231107.054: LOG: ************ STARTING Express Application(server.js)**************
+20211007:231108.320: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:231109.690: LOG: ** Integrating CORS Middleware in Application
+20211007:231109.694: LOG: ** Integrating Logging Middleware in Application
+20211007:231109.715: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:231109.703: LOG: ** All Modules Integration Done
+20211007:231109.700: LOG: ** Integrating All Routes in Application
+20211007:231109.699: LOG: ** Integrating Authentication Middleware in Application
+20211007:231150.511: LOG: auth: error:{"status":-41,"info":"\"AUTH ERROR: No Authentication Key paased in request: undefined\"","startDT":"2021-10-07T17:41:50.511Z","endDT":"2021-10-07T17:41:50.511Z","tat":0,"data":{}}
+20211007:231150.508: LOG: baseUrl=: body={}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/getdetails: params={}: path=/test/getdetails: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:231652.866: LOG: ************ STARTING Express Application(server.js)**************
+20211007:231653.129: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:231653.450: LOG: ** Integrating CORS Middleware in Application
+20211007:231653.452: LOG: ** Integrating Logging Middleware in Application
+20211007:231653.454: LOG: ** Integrating Authentication Middleware in Application
+20211007:231653.457: LOG: ** Integrating All Routes in Application
+20211007:231653.461: LOG: ** All Modules Integration Done
+20211007:231653.471: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:231659.338: LOG: baseUrl=: body={"username":"dydtyd","password":"eegeg"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/loginsubmit: params={}: path=/test/loginsubmit: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:231701.139: LOG: QueryModel: {"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":2,"warningCount":0,"status":1,"fetchedRows":0,"rows":{},"info":"SUCCESS","startDT":"2021-10-07T17:47:00.556Z","endDT":"2021-10-07T17:47:00.557Z","tat":0.583}
+20211007:231701.140: LOG: test-api.js: (getQueryResult(req): SUCCESS
+20211007:232023.992: LOG: baseUrl=: body={"username":"rthrt","password":"55555"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/loginsubmit: params={}: path=/test/loginsubmit: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:232024.020: LOG: baseUrl=: body={"username":"rthrt","password":"55555"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/loginsubmit: params={}: path=/test/loginsubmit: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:232025.107: LOG: QueryModel: {"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":2,"warningCount":0,"status":1,"fetchedRows":0,"rows":{},"info":"SUCCESS","startDT":"2021-10-07T17:50:24.541Z","endDT":"2021-10-07T17:50:24.541Z","tat":0.566}
+20211007:232025.108: LOG: test-api.js: (getQueryResult(req): SUCCESS
+20211007:232025.707: LOG: QueryModel: {"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":2,"warningCount":0,"status":1,"fetchedRows":0,"rows":{},"info":"SUCCESS","startDT":"2021-10-07T17:50:25.126Z","endDT":"2021-10-07T17:50:25.126Z","tat":0.58}
+20211007:232025.708: LOG: test-api.js: (getQueryResult(req): SUCCESS
+20211007:232147.233: LOG: baseUrl=: body={"username":"shuaib","password":"000000"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/loginsubmit: params={}: path=/test/loginsubmit: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:232148.390: LOG: QueryModel: {"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":2,"warningCount":0,"status":1,"fetchedRows":0,"rows":{},"info":"SUCCESS","startDT":"2021-10-07T17:51:47.809Z","endDT":"2021-10-07T17:51:47.810Z","tat":0.58}
+20211007:232148.498: LOG: test-api.js: (getQueryResult(req): SUCCESS
+20211007:233821.857: LOG: ************ STARTING Express Application(server.js)**************
+20211007:233822.515: LOG: ** Creating DB Connection Pool : {"host":"mysql-53444-0.cloudclusters.net","port":"19319","database":"instagram","user":"admin","password":"cP5jxQEH","dateStrings":true,"connectionLimit":"5"}
+20211007:233823.391: LOG: ** Integrating All Routes in Application
+20211007:233823.394: LOG: ** All Modules Integration Done
+20211007:233823.402: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20211007:233823.385: LOG: ** Integrating CORS Middleware in Application
+20211007:233823.387: LOG: ** Integrating Logging Middleware in Application
+20211007:233823.389: LOG: ** Integrating Authentication Middleware in Application
+20211007:233847.347: LOG: baseUrl=: body={"username":"01120","password":"01120"}: cookies=undefined: fresh=false: hostname=localhost: ip=::1: ips=: originalUrl=/test/loginsubmit: params={}: path=/test/loginsubmit: protocol=http: query={}: route=undefined: secure=false: signedCookies=undefined: stale=true: subdomains=: xhr=false
+20211007:233849.132: LOG: QueryModel: {"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":0,"message":"","protocol41":true,"serverStatus":2,"warningCount":0,"status":1,"fetchedRows":0,"rows":{},"info":"SUCCESS","startDT":"2021-10-07T18:08:48.542Z","endDT":"2021-10-07T18:08:48.543Z","tat":0.59}
+20211007:233849.134: LOG: test-api.js: (getQueryResult(req): SUCCESS
